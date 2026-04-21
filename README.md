@@ -15,7 +15,3 @@ Hướng dẫn chạy nhanh
    ?- random_map, start.
 3) Để quan sát kiến thức Agent học được:
    ?- show_knowledge.
-
-Ghi chú
-- Mã do `Nguyen Le Gia Bao` viết; mục tiêu là minh họa biểu diễn tri thức và suy luận đơn giản trong Prolog.
-- Commit và README không chứa bất kỳ cụm từ nào về "add làm cùng với agent".
